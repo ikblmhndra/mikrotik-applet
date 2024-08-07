@@ -1,0 +1,15 @@
+name: winbox
+display_name: Winbox
+comment: A tool for managing MikroTik routers
+version: 1.0
+exec_type: python
+author: Ikbal Mahendra
+type: general
+update_policy: none
+tags:
+  - networking
+  - management
+protocols:
+  - winbox
+  - routers
+  - mikrotik

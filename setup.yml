@@ -1,0 +1,5 @@
+type: manual # exe, zip, manual
+destination: C:\Program Files\Winbox
+program: C:\Program Files\Winbox\winbox64.exe
+md5: 74753834bb2808b26473249d0ace96fa
+

@@ -1,0 +1,19 @@
+name: Winbox64
+category: custom
+type: Custom
+comment: Custom Winbox64
+
+protocols:
+  - name: winbox64
+    port: 8291
+    primary: true
+
+custom_fields:
+  - name: winbox64
+    label: "{{ 'Label' | trans }}"
+    default: 'winbox64'
+    type: str
+
+i18n:
+  Label:
+    en: Label
