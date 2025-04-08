@@ -11,7 +11,7 @@ protocols:
 custom_fields:
   - name: winbox
     label: "{{ 'Label' | trans }}"
-    default: 'winbox64'
+    default: 'winbox'
     type: str
 
 i18n:
