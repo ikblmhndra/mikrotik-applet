@@ -1,15 +1,15 @@
-name: Winbox64
+name: Winbox
 category: custom
 type: Custom
-comment: Custom Winbox64
+comment: Custom Winbox
 
 protocols:
-  - name: winbox64
+  - name: winbox
     port: 8291
     primary: true
 
 custom_fields:
-  - name: winbox64
+  - name: winbox
     label: "{{ 'Label' | trans }}"
     default: 'winbox64'
     type: str
